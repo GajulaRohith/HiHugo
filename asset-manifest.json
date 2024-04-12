@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HiHugo/static/css/main.ce46a170.css",
+    "main.js": "/HiHugo/static/js/main.ef0fcdb2.js",
+    "static/media/hugo2.jpg": "/HiHugo/static/media/hugo2.e035cd6f2f36da256320.jpg",
+    "index.html": "/HiHugo/index.html",
+    "main.ce46a170.css.map": "/HiHugo/static/css/main.ce46a170.css.map",
+    "main.ef0fcdb2.js.map": "/HiHugo/static/js/main.ef0fcdb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce46a170.css",
+    "static/js/main.ef0fcdb2.js"
+  ]
+}
